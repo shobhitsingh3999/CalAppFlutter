@@ -40,4 +40,13 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 For any inquiries or suggestions regarding the Calculator App, please contact us at [shobhitsingh209801@gmail.com]
 
+## Screenshots
+<img width="329" alt="Screenshot 2023-05-31 at 7 03 04 PM" src="https://github.com/shobhitsingh3999/CalAppFlutter/assets/78922225/01c36f7a-2c81-4731-b639-01f735724825">
+
 Thank you for using the Calculator App!
+
+
+
+
+
+
